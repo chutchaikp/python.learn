@@ -7,6 +7,9 @@ import time
 # from commons import LOG_LOCATION
 # from components.logs.log_even import LogEvent
 
+edit
+edit
+
 # TODO: how to format time in logging
 
 logging.basicConfig(
